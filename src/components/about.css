@@ -1,0 +1,20 @@
+/* About.css */
+.about-image {
+    max-width: 80%;
+    height: auto;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* Optional: Adds a shadow effect */
+}
+
+.about-text {
+    padding: 20px;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}

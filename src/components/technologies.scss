@@ -1,0 +1,35 @@
+// Define colors for each technology
+$react-color: #61DAFB;
+$html5-color: #E34F26;
+$css3-color: #1572B6;
+$java-color: #007396;
+$php-color: #787CB5; // Purple for PHP
+$js-color: #F7DF1E;
+
+.icon-padding {
+  padding: 1rem;
+}
+
+.react-color {
+  color: $react-color;
+}
+
+.html5-color {
+  color: $html5-color;
+}
+
+.css3-color {
+  color: $css3-color;
+}
+
+.java-color {
+  color: $java-color;
+}
+
+.php-color {
+  color: $php-color;
+}
+
+.js-color {
+  color: $js-color;
+}

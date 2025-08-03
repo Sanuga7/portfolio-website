@@ -1,0 +1,34 @@
+.table-container {
+    padding: 20px;
+  }
+  
+  .table-heading {
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .education-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff00;
+  }
+  
+  .time-period {
+    width: 150px;
+    vertical-align: middle;
+    text-align: center;
+  }
+  
+  .details {
+    padding-left: 20px;
+    color: white;
+  }
+  
+  .project-image {
+    width: 130px; /* Adjust as necessary */
+    height: auto;
+    border-radius: 5px;
+  }
+  

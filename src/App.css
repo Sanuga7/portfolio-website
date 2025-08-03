@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+  /* Apply gradient to body */
+  background: radial-gradient(125% 125% at 50% 10%, #000 40%, #63e 100%);
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar, .hero, .about {
+  padding: 0;
+  margin: 0;
+}
